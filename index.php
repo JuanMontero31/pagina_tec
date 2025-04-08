@@ -1,5 +1,5 @@
 <?php
-$servername = "mysql_db"; // Nombre del contenedor de la base de datos
+$servername = "mysql-db"; // Nombre del contenedor de la base de datos
 $username = "root";
 $password = "1234";
 $dbname = "base_redes";
